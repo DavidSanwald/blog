@@ -3,7 +3,7 @@ baseurl = "/"
 languageCode = "en"
 title = "bits and pieces"
 theme = "hemingway2"
-
+relativeURLS = true
 keywords = ["keyword1", "keyword2"]
 
 [taxonomies]
