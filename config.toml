@@ -2,9 +2,6 @@
 baseurl = "/"
 languageCode = "en"
 title = "bits and pieces"
-description = "the art of making mistakes"
-theme = hemingway2
-googleAnalytics = "your_google_analytics_id"
 
 keywords = ["keyword1", "keyword2"]
 
