@@ -2,6 +2,7 @@
 baseurl = "/"
 languageCode = "en"
 title = "bits and pieces"
+theme = "hemingway2"
 
 keywords = ["keyword1", "keyword2"]
 
@@ -33,6 +34,6 @@ url = "https://medium.com/@davidsanwald"
 fa_icon = "fa-medium"
 
 [[params.social]]
-url = "linkedin.com/in/david-sanwald-98249994"
+url = "https://www.linkedin.com/in/david-sanwald-98249994"
 fa_icon = "fa-linkedin"
 
