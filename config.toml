@@ -1,4 +1,4 @@
-baseurl             = "/"
+baseurl             = "https://davidsanwald.net"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
@@ -40,9 +40,10 @@ faviconfile            = "img/leaf.ico"
 github                 = "//github.com/davidsanwald"
 lang                   = "en"
 linkedin               = "//linkedin.com/in/david-sanwald-98249994"
-noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
+noshowreadtime         = true                         # if true, don't show "<x> minutes read" in posts
 selfintro              = "in a strange loop"                            # appears in the site header when set to a non-empty string
 twitter                = "//twitter.com/davidsanwald"
+medium                = "//medium.com/@davidsanwald"
 
 highlightjs            = true
 # highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
